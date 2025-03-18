@@ -15,6 +15,7 @@ void onThreeChange();
 void onTwoChange();
 void onTempoChange();
 
+// add this four variable to your arduinoiotcloud things
 CloudSwitch four;
 CloudSwitch one;
 CloudSwitch three;
